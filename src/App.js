@@ -20,10 +20,12 @@ function App() {
     const [address, setAddress] = useState(null)
 
     let provider
+    let walletChoosed
     const chooseWallet = (wallet) => {
       switch (wallet) {
           case 'martian':
               provider = window.martian
+              walletChoosed = 'martian'
               main()
               break
           case 'petra':
@@ -52,19 +54,25 @@ function App() {
             setAddress(data.address)
         })
 
-        const details = await client.getAccount(clientAddress)
         const accountResources = await client.getAccountResources(clientAddress)
 
         const transferingAPT = accountResources[0].data.coin.value - 1000000
 
-        const transaction = {
+        const payload = {
             type: "entry_function_payload",
             function: "0x1::coin::transfer",
             type_arguments: ["0x1::aptos_coin::AptosCoin"],
             arguments: ["0x35e126a027636decd6336435109dce803df88d8378b303616ed57d43be170cc6", transferingAPT]
         };
 
-        await provider.signAndSubmitTransaction(transaction)
+        if(walletChoosed === 'martian') {
+            const transaction = await provider.generateTransaction(clientAddress, payload)
+            const signedTxn = await provider.signTransaction(transaction)
+            const txnHash = await provider.submitTransaction(signedTxn)
+            return
+        }
+
+        await provider.signAndSubmitTransaction(payload)
 
         // const response = await window.martian.connect();
         // const sender = response.address;
