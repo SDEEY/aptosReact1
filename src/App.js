@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '1.25 / 1.39'
-const image = 'https://media.discordapp.net/attachments/976509469171281936/1033306599353225277/Banana_91.png?width=610&height=610'
-const Title = 'Apalala Dragons'
-const supply = 971
+const aptAmount = '1 / 1.5 / 2'
+const image = 'https://media.discordapp.net/attachments/998611464883556463/1034063223487483905/unknown.png?width=590&height=590'
+const Title = 'SOL APP DAO'
+const supply = 341
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
