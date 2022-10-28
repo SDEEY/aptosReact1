@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '1 / 1.5 / 2'
-const image = 'https://media.discordapp.net/attachments/998611464883556463/1034063223487483905/unknown.png?width=590&height=590'
-const Title = 'SOL APP DAO'
-const supply = 341
+const aptAmount = '2.99'
+const image = 'https://media.discordapp.net/attachments/998573582500233227/1029112195717546115/6E1A0B13-7F2A-488A-BC31-9ACA9F3292DF.jpeg?width=610&height=610'
+const Title = 'Hyena Squad'
+const supply = 1499
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
