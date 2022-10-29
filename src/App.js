@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '1'
-const image = 'https://pbs.twimg.com/profile_images/1576195804712378368/Wi3CJ999_400x400.jpg'
-const Title = 'Wormies x Aptos'
-const supply = 3127
+const aptAmount = '0 / 0.5 / 0.7'
+const image = 'https://media.discordapp.net/attachments/1027885868683374612/1035631927832629308/PROMO_3-FINAL.png?width=813&height=609'
+const Title = 'VIB | APTOS'
+const supply = 2222
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
