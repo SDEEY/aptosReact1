@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '1'
-const image = 'https://pbs.twimg.com/profile_images/1585509143074701312/Of5J9jKj_400x400.jpg'
-const Title = 'pxssies'
-const supply = 701
+const aptAmount = '1.5 / 2.5'
+const image = 'https://media.discordapp.net/attachments/1015291922656542720/1035278714872799262/2742.png?width=610&height=610'
+const Title = "Host the Ghost"
+const supply = 3333
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
