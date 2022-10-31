@@ -6,9 +6,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const aptAmount = '1'
-const image = 'https://pbs.twimg.com/profile_images/1580035019711471616/19EYi02O_400x400.jpg'
-const Title = 'AZUMI'
-const supply = 7000
+const image = 'https://pbs.twimg.com/profile_images/1585509143074701312/Of5J9jKj_400x400.jpg'
+const Title = 'pxssies'
+const supply = 701
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
