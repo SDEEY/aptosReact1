@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '2.22'
-const image = 'https://pbs.twimg.com/profile_images/1583579532132491264/89H-xQ5a_400x400.jpg'
-const Title = "Aptos Bull Club"
-const supply = 2222
+const aptAmount = '2'
+const image = 'https://pbs.twimg.com/profile_images/1564687942139904001/fVA5aBO6_400x400.jpg'
+const Title = "SpookyShow"
+const supply = 4200
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
