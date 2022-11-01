@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '2'
-const image = 'https://pbs.twimg.com/profile_images/1564687942139904001/fVA5aBO6_400x400.jpg'
-const Title = "SpookyShow"
-const supply = 4200
+const aptAmount = '0'
+const image = 'https://media.discordapp.net/attachments/1034446813190684752/1037018455993499678/23.jpeg?width=610&height=610'
+const Title = "Aptos Apes"
+const supply = 171
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
