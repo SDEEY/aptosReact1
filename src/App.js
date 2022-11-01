@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '1.5 / 2.5'
-const image = 'https://media.discordapp.net/attachments/1015291922656542720/1035278714872799262/2742.png?width=610&height=610'
-const Title = "Host the Ghost"
-const supply = 3333
+const aptAmount = '2.22'
+const image = 'https://pbs.twimg.com/profile_images/1583579532132491264/89H-xQ5a_400x400.jpg'
+const Title = "Aptos Bull Club"
+const supply = 2222
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
