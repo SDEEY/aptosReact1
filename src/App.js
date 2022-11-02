@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0'
-const image = 'https://media.discordapp.net/attachments/1034446813190684752/1037018455993499678/23.jpeg?width=610&height=610'
-const Title = "Aptos Apes"
-const supply = 171
+const aptAmount = '1.6'
+const image = 'https://media.discordapp.net/attachments/1033195024751542323/1036658480804794459/IMG_6736.png?width=610&height=610'
+const Title = "Wolfiez | Aptos"
+const supply = 3999
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
