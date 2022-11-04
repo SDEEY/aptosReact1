@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '2.22'
-const image = 'https://media.discordapp.net/attachments/1034491677290790973/1034822839922085898/unknown.png?width=712&height=610'
-const Title = "APTOMADS"
-const supply = 2222
+const aptAmount = '1.85'
+const image = 'https://media.discordapp.net/attachments/1025487032664993818/1037020679247241317/Kaishi_9.png?width=610&height=610'
+const Title = "Kaishi"
+const supply = 5555
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
