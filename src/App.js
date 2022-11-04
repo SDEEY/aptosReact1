@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '6'
-const image = 'https://pbs.twimg.com/profile_images/1586247293002563585/r-QfRNbQ_400x400.jpg'
-const Title = "Aptos (MOVE)Rs NFT"
-const supply = 100
+const aptAmount = '2.22'
+const image = 'https://media.discordapp.net/attachments/1034491677290790973/1034822839922085898/unknown.png?width=712&height=610'
+const Title = "APTOMADS"
+const supply = 2222
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
