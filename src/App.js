@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '2 / 3'
-const image = 'https://pbs.twimg.com/profile_images/1587825887755517954/TLIu3yPv_400x400.jpg'
-const Title = "Aptos Arcade"
-const supply = 777
+const aptAmount = '1 / 1.2 / 1.5'
+const image = 'https://pbs.twimg.com/profile_images/1573738158088491013/G4wdTdCK_400x400.jpg'
+const Title = "APTOS WINTER KINGS"
+const supply = 2371
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
