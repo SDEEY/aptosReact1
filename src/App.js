@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '1 / 1.2 / 1.5'
-const image = 'https://pbs.twimg.com/profile_images/1573738158088491013/G4wdTdCK_400x400.jpg'
-const Title = "APTOS WINTER KINGS"
-const supply = 2371
+const aptAmount = '0 / 0.33 / 0.44'
+const image = 'https://media.discordapp.net/attachments/1008345395115593762/1035992592061583420/Ice_SP.png?width=610&height=610'
+const Title = "APT00GLES"
+const supply = 971
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
