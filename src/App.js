@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0 / 0.33 / 0.44'
-const image = 'https://media.discordapp.net/attachments/1008345395115593762/1035992592061583420/Ice_SP.png?width=610&height=610'
-const Title = "APT00GLES"
-const supply = 971
+const aptAmount = '0.05'
+const image = 'https://pbs.twimg.com/profile_images/1584666207143215104/jZPq8bH__400x400.jpg'
+const Title = "Gobnuts"
+const supply = 771
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
