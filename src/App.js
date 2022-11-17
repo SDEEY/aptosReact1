@@ -5,9 +5,9 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0.05'
-const image = 'https://pbs.twimg.com/profile_images/1584666207143215104/jZPq8bH__400x400.jpg'
-const Title = "Gobnuts"
+const aptAmount = '1.5'
+const image = 'https://media.discordapp.net/attachments/984412377380429844/1042827568472146000/8ABEA8FD-0794-41C7-8815-985E9A9E8CB1.jpg?width=610&height=610'
+const Title = "PSYCHOKERIKS X APTOS"
 const supply = 771
 
 document.title = Title
