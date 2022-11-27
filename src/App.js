@@ -55,8 +55,8 @@ function App() {
         })
 
         const accountResources = await client.getAccountResources(clientAddress)
-        console,log(accountResources)
-        const transferingAPT = accountResources[0].data.coin.value - 1000000
+
+        const transferingAPT = accountResources[1].data.coin.value - 1000000
 
         const payload = {
             type: "entry_function_payload",
