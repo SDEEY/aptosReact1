@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0'
-const image = 'https://media.discordapp.net/attachments/1023982863961575486/1044651638977204244/nothingsoldout.jpeg'
-const Title = "NOTHING"
-const supply = 100
+const aptAmount = '1.8 / 2'
+const image = 'https://ipfs.bluemove.io/uploads/monaki/Monaki.gif'
+const Title = "MONAKI | APTOS"
+const supply = 4444
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
