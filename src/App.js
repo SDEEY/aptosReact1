@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 
 const aptAmount = '0.5'
 const image = 'https://pbs.twimg.com/profile_images/1561618064080257024/xm8f_AHe_400x400.jpg'
-const Title = "MONAKI | APTOS"
+const Title = "THE SPLIT UNIVERSE"
 const supply = 333
 
 document.title = Title
