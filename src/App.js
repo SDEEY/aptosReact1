@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '1.8 / 2'
-const image = 'https://ipfs.bluemove.io/uploads/monaki/Monaki.gif'
+const aptAmount = '0.5'
+const image = 'https://pbs.twimg.com/profile_images/1561618064080257024/xm8f_AHe_400x400.jpg'
 const Title = "MONAKI | APTOS"
-const supply = 4444
+const supply = 333
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
