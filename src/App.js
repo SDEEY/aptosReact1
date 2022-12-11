@@ -5,9 +5,9 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0 / 0.5 / 1'
-const image = 'https://pbs.twimg.com/profile_images/1584365197493301248/6I10UhfN_400x400.jpg'
-const Title = "THE FIRST 5000 APTOS DEVS"
+const aptAmount = '0'
+const image = 'https://media.discordapp.net/attachments/977693344329236505/1046765846929875014/live_bait_logo_yellow.png'
+const Title = "DEGEN WAR SEAGULLS"
 const supply = 2971
 
 document.title = Title
