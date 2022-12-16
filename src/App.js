@@ -8,7 +8,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const aptAmount = '0.22'
 const image = 'https://media.discordapp.net/attachments/980170867050938468/1032326936975921283/snp3.png?width=587&height=587'
 const Title = "DBC DAO"
-const supply = 999
+const supply = 327
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
