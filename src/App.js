@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0'
-const image = 'https://media.discordapp.net/attachments/977693344329236505/1046765846929875014/live_bait_logo_yellow.png'
-const Title = "DEGEN WAR SEAGULLS"
-const supply = 2971
+const aptAmount = '0.22'
+const image = 'https://media.discordapp.net/attachments/980170867050938468/1032326936975921283/snp3.png?width=587&height=587'
+const Title = "DBC DAO"
+const supply = 999
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
