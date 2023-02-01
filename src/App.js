@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0 / 2 / 3'
-const image = 'https://pbs.twimg.com/profile_images/1576311005931618310/3DBmfb5K_400x400.jpg'
-const Title = "NINE TAILS NFT"
-const supply = 2971
+const aptAmount = '0.05'
+const image = 'https://pbs.twimg.com/profile_images/1619011610139594753/lzp1ypUw_400x400.jpg'
+const Title = "WAAAH CATS"
+const supply = 771
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
