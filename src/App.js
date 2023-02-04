@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0.05'
-const image = 'https://pbs.twimg.com/profile_images/1619011610139594753/lzp1ypUw_400x400.jpg'
-const Title = "WAAAH CATS"
-const supply = 771
+const aptAmount = '2'
+const image = 'https://media.discordapp.net/attachments/1055831852600012824/1055957019653312622/Jumpset_robot_enhanced_PBR_Blender_V_ray_Procreate_zBrush_Cine_fcf9d2db.png?width=587&height=587'
+const Title = "APTOS ROBI"
+const supply = 44
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
