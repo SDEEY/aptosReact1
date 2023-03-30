@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0'
-const image = 'https://pbs.twimg.com/profile_images/1630970946138800139/QMXaodyM_400x400.jpg'
-const Title = "NFTXY's QR RQ"
-const supply = 471
+const aptAmount = '1'
+const image = 'https://pbs.twimg.com/profile_images/1557127950373457920/ZByvEtiI_400x400.jpg'
+const Title = "Bone Shamans"
+const supply = 999
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
