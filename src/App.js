@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '1'
-const image = 'https://pbs.twimg.com/profile_images/1557127950373457920/ZByvEtiI_400x400.jpg'
-const Title = "Bone Shamans"
-const supply = 999
+const aptAmount = '1.5'
+const image = 'https://pbs.twimg.com/profile_images/1625352299651428354/2Q3b4hbn_400x400.jpg'
+const Title = "League Of Shoguns"
+const supply = 899
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
