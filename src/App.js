@@ -6,9 +6,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const aptAmount = '1.5'
-const image = 'https://pbs.twimg.com/profile_images/1625352299651428354/2Q3b4hbn_400x400.jpg'
-const Title = "League Of Shoguns"
-const supply = 899
+const image = 'https://pbs.twimg.com/profile_images/1639204124863475712/PcR8YGhx_400x400.jpg'
+const Title = "Aptos DataBlaze"
+const supply = 1111
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
